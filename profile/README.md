@@ -13,7 +13,7 @@ The following repositories of the students of Data Science contain the codes and
 <hr>
     CREATE YOUR OWN REPOSITORY WITH REPOSITORY NAME IN FORMAT 'Section-Roll no-Name'
 
-For Eg: D-01-Anjala Kushwaha
+For Eg: D-01-Anjali Kushwaha
 
 Thank you for your precious time and collaboration.
 
