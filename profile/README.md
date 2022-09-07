@@ -1,6 +1,6 @@
 # DATA SCIENCE ORGANIZATION
 
-<img src="./img.jpeg" />
+<img src="img.jpeg" />
 
 ### <B>_Repositories of all Students of Data Science BATCH 2020-2024_.<B>
 
