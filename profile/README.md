@@ -1,12 +1,12 @@
 # DATA SCIENCE ORGANIZATION
 
-<img src="https://th.bing.com/th/id/OIP.WOaUxBRKcwCWnD9ixOFAegHaD7?pid=ImgDet&rs=1" />
+<img src="./img.jpeg" />
 
 ### <B>_Repositories of all Students of Data Science BATCH 2020-2024_.<B>
 
 
 
-The following repositories of the students of Data Science contain the codes and python projects done since Semester.
+The following repositories of the students of Data Science contain the codes and python projects done since Semester 3.
 
 
 ### STEPS :
